@@ -17456,7 +17456,7 @@ const oE = "/assets/banner-ByzVJLH8.jpg",
                 "flex flex-col sm:flex-row gap-4 justify-center items-center",
               children: [
                 E.jsx("a", {
-                  href: "https://pump.fun/coin/2n8Vp7mfsnbgtaxFMgaz9x9J24cNFdBbJGSWrdj3pump",
+                  href: "https://pump.fun/coin/abcd",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   className:
@@ -17482,21 +17482,14 @@ const oE = "/assets/banner-ByzVJLH8.jpg",
                     "font-body text-sm text-muted-foreground hover:text-primary transition-colors font-semibold",
                   children: "𝕏 Twitter",
                 }),
-                E.jsx("a", {
-                  href: "https://t.me/seednee_sol",
-                  target: "_blank",
-                  rel: "noopener noreferrer",
-                  className:
-                    "font-body text-sm text-muted-foreground hover:text-primary transition-colors font-semibold",
-                  children: "💬 Telegram",
-                }),
+           
               ],
             }),
           ],
         }),
       ],
     }),
-  lf = "2n8Vp7mfsnbgtaxFMgaz9x9J24cNFdBbJGSWrdj3pump",
+  lf = "abcd",
   sE = () => {
     const [e, t] = x.useState(!1),
       n = () => {
@@ -17725,7 +17718,7 @@ const oE = "/assets/banner-ByzVJLH8.jpg",
             className: "flex justify-center gap-6 mt-6",
             children: [
               E.jsx("a", {
-                href: "https://pump.fun/coin/2n8Vp7mfsnbgtaxFMgaz9x9J24cNFdBbJGSWrdj3pump",
+                href: "https://pump.fun/coin/abcd",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
@@ -17740,14 +17733,7 @@ const oE = "/assets/banner-ByzVJLH8.jpg",
                   "font-body text-sm text-primary hover:text-foreground transition-colors font-semibold",
                 children: "X / Twitter",
               }),
-              E.jsx("a", {
-                href: "https://t.me/seednee_sol",
-                target: "_blank",
-                rel: "noopener noreferrer",
-                className:
-                  "font-body text-sm text-primary hover:text-foreground transition-colors font-semibold",
-                children: "Telegram",
-              }),
+          
             ],
           }),
           E.jsx("p", {
