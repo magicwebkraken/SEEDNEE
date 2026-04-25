@@ -17456,7 +17456,7 @@ const oE = "/assets/banner-ByzVJLH8.jpg",
                 "flex flex-col sm:flex-row gap-4 justify-center items-center",
               children: [
                 E.jsx("a", {
-                  href: "https://pump.fun/coin/abcd",
+                  href: "https://pump.fun/coin/2nowXMUeY3BuQ5x91HMQG4NTptq1FZrMby5V8mSopump",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   className:
@@ -17489,7 +17489,7 @@ const oE = "/assets/banner-ByzVJLH8.jpg",
         }),
       ],
     }),
-  lf = "abcd",
+  lf = "2nowXMUeY3BuQ5x91HMQG4NTptq1FZrMby5V8mSopump",
   sE = () => {
     const [e, t] = x.useState(!1),
       n = () => {
@@ -17718,7 +17718,7 @@ const oE = "/assets/banner-ByzVJLH8.jpg",
             className: "flex justify-center gap-6 mt-6",
             children: [
               E.jsx("a", {
-                href: "https://pump.fun/coin/abcd",
+                href: "https://pump.fun/coin/2nowXMUeY3BuQ5x91HMQG4NTptq1FZrMby5V8mSopump",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
